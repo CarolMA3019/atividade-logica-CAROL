@@ -6,28 +6,31 @@ Algoritmo "semnome"
 // Data atual  : 30/08/2023
 Var
    // Seção de Declarações das variáveis
-   nome:caracter
-   sexo:caracter
-   estadocivil:caracter
-   anosdecasada:inteiro
+  A:real
+  B:real
+  C:real
 
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
-   escreval (" digite o seu nome:")
-   leia(nome)
+ escreval ("digite o valor de A:")
+ leia (A)
+ 
+ escreval ("digite o valor de B")
+ leia (B)
+ 
+ 
+ 
+ // CONTA
+ 
 
-   escreval ("digite seu sexo:")
-   leia (sexo)
+ se (A=B) entao
+ C <- A+B
+ senao
+ C <- A*B
+ escreval ("o valor de:",c)
 
-   escreval ("digite seu estado civil:")
-   leia (estadocivil)
-
-   // solicitando dados
-
-   se(sexo="feminino") e (estadocivil="casada") entao
-      escreval ( "quantos anos de casada:")
-      leia (anosdecasada)
-   fimse
+ 
+ fimse
 
 
 Fimalgoritmo
