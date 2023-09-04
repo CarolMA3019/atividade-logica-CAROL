@@ -1,11 +1,11 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Ana Carolina Almeida de Santana
 // Data atual  : 04/09/2023
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 quantidade1:real
 quantidade2:real
 maca:real
@@ -16,7 +16,7 @@ frutaMA:real
 frutaMO:real
 soma2:real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
  escreval ("Qual a quantidade de morangos?:")
  leia (quantidade1)
  
@@ -38,7 +38,7 @@ soma2<-frutaMO+frutaMA
 
 
 escreval ("Quantidade de morangos:",quantidade1)
-escreval ("Quantidade de maças:",quantidade2)
+escreval ("Quantidade de maÃ§as:",quantidade2)
 escreval ("Quilos totais:",kg)
 
 
