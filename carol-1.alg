@@ -1,16 +1,16 @@
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Ana Carolina Almeida de Santana
 // Data atual  : 30/08/2023
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 A:real
 B:real
 C:real
 soma:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 escreval ("determine o valor de A:")
 leia (A)
 
@@ -22,9 +22,9 @@ leia (C)
 
 // soma
 se( A+B < C)entao
-escreval ("a soma de A+B é menor que C:")
+escreval ("a soma de A+B Ã© menor que C:")
 senao
-escreval(" a soma de A+B é maior que C:")
+escreval(" a soma de A+B Ã© maior que C:")
 fimse
 
 
