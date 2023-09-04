@@ -1,18 +1,18 @@
 Algoritmo "semnome"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Disciplina  :  [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Ana Carolina Almeida de Santana
 // Data atual  : 30/08/2023
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 nota1:real
 nota2:real
 media:real
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
  escreval ("Digite sua primeira nota:")
  leia (nota1)
  
@@ -27,7 +27,7 @@ escreval ("PARABENS ESTA APROVADO:")
 fimse
 
 se (media >= 4) e (media<6)  entao
-escreval ( "ESTA DE RECUPERAÇÃO")
+escreval ( "ESTA DE RECUPERAÃ‡ÃƒO")
 fimse
 
 se ( media<4) entao
